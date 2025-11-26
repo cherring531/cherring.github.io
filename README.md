@@ -1,6 +1,9 @@
 # cherring.github.io
 visiting-taniti
 
+Christian Herring 
+D479 Task 1
+
 Wireframe is with the prototype
 
 <a href = "UX Prototype.pptx" download>View Prototype</a><br>
