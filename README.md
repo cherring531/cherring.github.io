@@ -4,7 +4,7 @@ visiting-taniti
 Christian Herring 
 D479 Task 1
 
-Download prototype here. Must sign in to microsoft. 
+View raw prototype here. First slide is a wireframe.<br>
 <a href = "UX Prototype.pptx" download>View Prototype</a><br>
 
 View powerpoint of prototype here. 
