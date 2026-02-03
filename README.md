@@ -12,4 +12,4 @@ Wireframe is with the prototype
 <a href = "GuerillaTesting.docx" download> View Guerilla Testing</a><br>
 <a href = "Usability Tasks.docx" download> View Usability Tasks</a>
 
-<a href = "UX Prototype.pptx" download> View Prototype</a><br>
+<iframe src = "UX Prototype.pptx" width="900px" height="400px" frameborder="0"> </a>.</iframe>
