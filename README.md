@@ -10,4 +10,5 @@ D479 Task 1
 <a href = "GuerillaTesting.docx" download> View Guerilla Testing</a><br>
 <a href = "Usability Tasks.docx" download> View Usability Tasks</a>
 
-<iframe src="https://westerngovernorsuniversity-my.sharepoint.com/personal/cher888_wgu_edu/_layouts/15/Doc.aspx?sourcedoc={b34799a2-d47a-4c42-b4fd-90bfb4ca96a2}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="900px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe>https://westerngovernorsuniversity-my.sharepoint.com/:p:/g/personal/cher888_wgu_edu/IQCeHX4XhWyPQZ0sIVxxpjz_AVljQdON0STlrxV1anJqDLA?e=PakJ9p&nav=eyJzSWQiOjI1NywiY0lkIjozMDY0NTQyMTk1fQ</iframe>
+https://westerngovernorsuniversity-my.sharepoint.com/:p:/g/personal/cher888_wgu_edu/IQCeHX4XhWyPQZ0sIVxxpjz_AVljQdON0STlrxV1anJqDLA?e=PakJ9p&nav=eyJzSWQiOjI1NywiY0lkIjozMDY0NTQyMTk1fQ
